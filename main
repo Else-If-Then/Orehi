@@ -1,19 +1,21 @@
 <html>
 
-
-  <link rel="stylesheet" href="main-style.css">
-
+<head>
+  <link rel="stylesheet" href="main-style.css"/>
 
   <title>
     Ореховый Порт прод.
   </title>
+</head>
+
+
   <body style="background-color:#f4efe1">
 
 
-    <h1 align="center" style="color:#2c2e2a; font-size: 60px; background:rgb(217, 218, 198); border: 3px dashed rgb(141, 118, 118)">Ореховый порт</h1>
-    <hr style="font-size: 60px;"/>
+    <h1 align="center" style="color:#2c2e2a; padding:100px margin:170px; font-size: 60px; background:rgb(217, 218, 198); border: 3px dashed rgb(141, 118, 118)">Ореховый порт</h1>
+    <hr style="font-size: 50px;"/>
     <h2 style="font-size: larger; text-align: center">Наша продукция</h2>
-    <hr style="font-size: 60px;"/>
+    <hr style="font-size: 50px;"/>
 
 
     <button type="button">
@@ -38,7 +40,6 @@
           <p>Описание</p>
         </td>
       </tr>
-
 
       <tr>
         <td>
@@ -67,7 +68,6 @@
         </td>
       </tr>
 
-
       <tr>
         <td>
           <img src="https://cdn1.ozone.ru/s3/multimedia-4/6145392268.jpg" height="245" width="370">
@@ -92,7 +92,6 @@
         </td>
       </tr>
 
-
       <tr>
         <td>
           <img src="https://selcdn.fedsp.com/ye/1160/1355d9ddaf0b35f6.jpg" height="245" width="370">
@@ -107,7 +106,6 @@
           <h4>ㅤКалорийность кедровых орехов составляет<br/> 673 ккал на 100 граммов продукта.ㅤ</h4>
         </td>
       </tr>
-
 
       <tr>
         <td>
@@ -134,12 +132,6 @@
         </td>
       </tr>
 
-
     </table>
    
   </body>
-
-
-  <img src="">
-</html>
-
